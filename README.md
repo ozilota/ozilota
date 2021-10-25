@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ozilota
+- 👀 I’m interested in Java, Python, C# and Unity.
+- 🌱 I’m currently learning unity.
+- 📫 How to reach me oguzhanert55@gmail.com
